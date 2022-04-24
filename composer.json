@@ -1,5 +1,5 @@
 {
-  "name": "melhorenvio/melhor-envio-sdk-php",
+  "name": "kayooliveira/melhor-envio-sdk-php",
   "type": "library",
   "license": "MIT",
   "autoload": {
